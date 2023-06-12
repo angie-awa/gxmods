@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "GX Aura Takeover",
-    "description": "Hand over the keyboard, it's her turn on the gaming browser.",
+    "name": "angie_awa",
+    "description": "ratiolover y a casa pete forever<3",
     "version": "1.1",
     "icons":
     {
@@ -20,20 +20,20 @@
             {
                 "light":
                 {
-                    "image": "wallpaper/aura.jpg",
+                    "image": "wallpaper/aura.png",
                     "text_color": "#ffffff",
                     "text_shadow": "#ffffff"
                 },
                 "dark":
                 {
-                    "image": "wallpaper/aura.jpg",
+                    "image": "wallpaper/aura.png",
                     "text_color": "#ffffff",
                     "text_shadow": "#ffffff"
                 }
             },
             "background_music":
             [
-                "music/music.mp3"
+                "music/ratio.mp3"
             ],
             "keyboard_sounds":
             {
@@ -103,14 +103,14 @@
             ],
             "shaders":
             {
-                "Froggy":
+                "lofi":
                 {
                     "animation":
                     {
                         "duration": 60,
                         "steps": 3600
                     },
-                    "path": "shaders/froggy.txt"
+                    "path": "shaders/lofi.txt"
                 }
             }
         }
